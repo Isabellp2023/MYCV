@@ -1,0 +1,7 @@
+button {
+    padding: 1px;
+    margin: 1px;
+    justify-content: center;
+    gap: 2px;
+    display: flex;
+}
